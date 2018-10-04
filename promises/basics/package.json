@@ -1,0 +1,15 @@
+{
+  "name": "promises-basics",
+  "version": "1.0.0",
+  "description": "testing excersize",
+  "main": "app.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^23.6.0",
+    "mocha": "^5.2.0"
+  }
+}
